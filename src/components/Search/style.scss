@@ -1,0 +1,18 @@
+.search {
+  &__label {
+    margin-right: 10px;
+  }
+
+  &__input {
+    padding: 5px 10px;
+    height: 20px;
+    background-color: inherit;
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 200px;
+
+    &:hover {
+      border: 1px solid rgba(12 122 231 / 0.4);
+    }
+  }
+}

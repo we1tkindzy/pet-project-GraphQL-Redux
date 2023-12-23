@@ -1,0 +1,16 @@
+.navigation {
+  display: flex;
+  column-gap: 20px;
+
+  &__link {
+    color: black;
+    font-size: 18px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;
+
+    &:hover {
+      color: rgba(12 122 231 / 0.4);
+      border-bottom: 1px solid rgba(12 122 231 / 0.4);
+    }
+  }
+}
