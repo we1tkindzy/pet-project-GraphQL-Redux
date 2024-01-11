@@ -4,7 +4,7 @@
 
 Доступные скрипты:
 - `npm i` — установка зависимостей
-- `npm run start` — запуск и проекта на [3000 порту](http://localhost:3000/)
+- `npm run start` — запуск проекта на [3000 порту](http://localhost:3000/)
 - `npm run build` — собирает проект в папку `dist`
 - `npm run clean` — удаляет папку `dist`
 
